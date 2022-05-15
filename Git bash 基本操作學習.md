@@ -19,7 +19,7 @@ https://git-scm.com/downloads
 
 * 在Git bash 裡輸入git，可查看 Git 版本. 還有一些常用 Git 指令如下
 
-![image-20220515210643133](C:\Users\商\AppData\Roaming\Typora\typora-user-images\image-20220515210643133.png)
+![image](https://user-images.githubusercontent.com/105298432/168477702-2d4263c0-8160-428e-ad64-2b4d8012da48.png)
 
 * Git bash 常用指令
 
