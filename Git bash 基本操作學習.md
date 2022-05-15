@@ -32,9 +32,7 @@ https://git-scm.com/downloads
 
 (3) 輸入clear 可以清除文字，就是我上面打的一堆可以清空~
 
-(4) 進入資料夾的指令為cd，以下操作是我先進入Desktop(桌面)然後去找test這個資料夾
-
-，用ls顯示裡面的資料，要回到上一層目錄的話，可以輸入cd ..
+(4) 進入資料夾的指令為cd，以下操作是我先進入Desktop(桌面)然後去找test這個資料夾，用ls顯示裡面的資料，要回到上一層目錄的話，可以輸入cd ..
 ![image](https://user-images.githubusercontent.com/105298432/168477847-cdf31a02-cfba-476b-b242-ee7e4853cc45.png)
 
 (5)用 touch 建立檔案or文字檔...都可以，以下為我用touch創的檔案跟文字檔
