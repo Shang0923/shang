@@ -8,7 +8,8 @@
 
 https://git-scm.com/downloads
 
-![image-20220515205927729](C:\Users\商\AppData\Roaming\Typora\typora-user-images\image-20220515205927729.png)
+![image](https://user-images.githubusercontent.com/105298432/168477640-f7360187-a184-49ab-93cd-ca1930c33f01.png)
+
 
 下載完成後會有 (1)Git bash (2)Git CMD 之後要來跑一些指令跟程式碼用Git bash.
 
